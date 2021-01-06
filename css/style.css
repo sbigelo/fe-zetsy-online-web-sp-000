@@ -23,7 +23,6 @@ body {
 
 /* Write all remaining styles here */
 .wrapper #firstpic {
-	column-width: 200px;
-	max-width: 250px;
-	margin: 0 auto;
+	width: 50%;
+	height: 50%;
 }
