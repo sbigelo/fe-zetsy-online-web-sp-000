@@ -20,4 +20,5 @@ body {
 /* Write all remaining styles here */
 .wrapper h1 {
 	font-family: fantasy;
+	color: blue;
 }
