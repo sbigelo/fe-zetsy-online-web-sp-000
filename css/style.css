@@ -23,5 +23,7 @@ body {
 
 /* Write all remaining styles here */
 #firstpic {
-	margin: 50%;
+	column-width: 200px;
+	max-width: 800px;
+	margin: 0 auto;
 }
