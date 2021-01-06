@@ -50,3 +50,10 @@ p	{
     color: #1783bb;
     text-decoration: none;
 }
+
+#press {
+    margin-bottom: 20px;
+}
+a {
+    background: transparent;
+}
