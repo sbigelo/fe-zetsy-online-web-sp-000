@@ -34,3 +34,8 @@ h1 {
 #featured img {
     border: 5px rgb(152,173,166) solid;
 	}
+
+h2 {
+	  color: rgb(111,127,122);
+	  font-size: 2em;
+	}
